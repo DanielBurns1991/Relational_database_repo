@@ -25,4 +25,18 @@ This repository contains the work completed for **Module 14.1** and **Module 14.
    ```bash
    git clone https://github.com/***********/module-14.1-and-14.2.git
 
-## 
+## Dependancies
+2. Install Dependencies:
+pip install -r requirements.txt
+Run the Notebooks:
+Open the Jupyter Notebooks in the notebooks/ directory and follow the instructions.
+Explore the Scripts:
+Run the Python scripts in the scripts/ directory to perform data preprocessing, model training, and evaluation.
+Contributions
+This repository is part of a learning journey and is not intended for external contributions. However, feedback and suggestions are welcome.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any questions or feedback, please contact daniel.burns@aureos.com
